@@ -3,13 +3,13 @@ import { Camera, Smile } from "lucide-react";
 
 export default function AccountSettings() {
   return (
-    <div className="min-h-screen bg-[#B8E3E9] flex justify-center items-center">
+    <div className="min-h-screen  flex justify-center items-center">
       {/* Mobile container */}
       <motion.div
         initial={{ opacity: 0, y: 30 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6, ease: "easeOut" }}
-        className="w-110  h-200 bg-[#efebd8] rounded-2xl shadow-2xl px-6 py-6"
+        className="w-110  aspect-9/16 bg-[#efebd8] rounded-2xl shadow-2xl px-6 py-6"
       >
         {/* Header */}
         <motion.h2
@@ -20,6 +20,8 @@ export default function AccountSettings() {
         >
             
           Account Settings
+        <hr className="mt-1" />
+        <hr className="mt-1" />
         </motion.h2>
 
         {/* Profile Section */}

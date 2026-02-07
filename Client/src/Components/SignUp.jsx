@@ -64,7 +64,7 @@ export default function Signup() {
         initial={{ opacity: 0, y: 30 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6, ease: "easeOut" }}
-        className="w-110 h-200 bg-[#efebd8] rounded-2xl shadow-2xl px-6 py-8"
+        className="w-110 aspect-9/16 bg-[#efebd8] rounded-2xl shadow-2xl px-6 py-8"
       >
         {/* Heading */}
         <motion.h1

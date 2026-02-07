@@ -6,7 +6,7 @@ export default function Welcome() {
   return (
     <div className="min-h-screen  flex justify-center items-center">
       {/* Mobile container */}
-      <div className="w-110 h-200 bg-[#efebd8] rounded-2xl shadow-2xl flex flex-col justify-end px-6 pb-10 ">
+      <div className="w-110 aspect-9/16 bg-[#efebd8] rounded-2xl shadow-2xl flex flex-col justify-end px-6 pb-10 ">
         <motion.h1
           className="text-2xl font-bold text-black mb-2"
           initial={{ opacity: 0, x: 0 }}
