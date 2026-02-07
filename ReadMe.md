@@ -1,7 +1,7 @@
 # PopX Authentication UI (React Assignment)
 
 This project is a **frontend authentication flow** built using **React.js**, **React Router**, **Framer Motion**, and **Tailwind CSS**.  
-It includes **Signup**, **Login**, and **Account Settings** screens with form validation and smooth animations.
+It includes **Signup**, **Login**, **Welcome** and **Account Settings page** screens with form validation and smooth animations.
 
 > ⚠️ Note: This is a **UI-only implementation** as per the assignment. No backend or API integration is included.
 
