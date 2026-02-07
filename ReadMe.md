@@ -18,7 +18,6 @@ It includes **Signup**, **Login**, and **Account Settings** screens with form va
   - Agency selection (Yes / No)
 - Login page with:
   - Email & Password validation
-- Account Settings page
 - Client-side form validation
 - Smooth animations using **Framer Motion**
 - Navigation using **React Router**
@@ -33,9 +32,25 @@ It includes **Signup**, **Login**, and **Account Settings** screens with form va
 - **React Router DOM**
 - **Framer Motion**
 - **Tailwind CSS**
-- **JavaScript (ES6+)**
+- **JavaScript**
 
 ---
 
 ## 📁 Project Structure
+```
+src/
+│── components/
+│ ├── Login.jsx
+│ ├── Signup.jsx
+│ ├── AccountSetting.jsx
+| ├── Welcome.jsx
+│
+│── App.jsx
+│── main.jsx
+│── index.css
+```
+
+## Author
+ **Asif Shaikh**
+
 
