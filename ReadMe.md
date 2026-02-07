@@ -31,6 +31,7 @@ It includes **Signup**, **Login**, and **Account Settings** screens with form va
 - **React.js**
 - **React Router DOM**
 - **Framer Motion**
+- **Lucide React**
 - **Tailwind CSS**
 - **JavaScript**
 
